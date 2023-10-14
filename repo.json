@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "daemitus & espu",
+    "Name": "peecraft",
+    "Punchline": "Work work.",
+    "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
+    "InternalName": "SomethingNeedDoing",
+    "AssemblyVersion": "1.5",
+    "TestingAssemblyVersion": "1.5",
+    "RepoUrl": "https://github.com/espuru-nhv/peecraft",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/espuru-nhv/peecraft/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/espuru-nhv/peecraft/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/espuru-nhv/peecraft/releases/latest/download/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/espuru-nhv/peecraft/main/res/icon.png",
+  }
+]
